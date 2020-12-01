@@ -1,3 +1,3 @@
 # repInstallKit
 
-Add  openpyxl module in QGIS env 
+Script to install openpyxl in offline QGIS environment
